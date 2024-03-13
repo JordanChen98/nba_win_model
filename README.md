@@ -1,5 +1,5 @@
 # nba_win_model
-
+WIP
 A fun project to explore data science techniques and broaden my knowledge of tools related to data analytics.
 
 Using a random forest classification model, we predict if a team will win or lose based on multiple features(variables) such as boxscore stats (pts, oreb, dreb, stls, etc)
